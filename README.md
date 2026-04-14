@@ -2,13 +2,8 @@
 
 FurniSpace is a high-fidelity, production-ready web platform for a premium interior design and luxury furniture boutique based in Dubai. The application focuses on brand storytelling, interactive product discovery, and a "High-Clarity Light" design aesthetic.
 
-## Platform Preview
 
-![FurniSpace Platform Preview](FurniSpace.mp4)
-
-*Watch the video above for a complete walkthrough of the storefront, animations, and interactive features.*
-
-## 💎 Key Features
+## Key Features
 
 - **Animated Advertising Panel**: A premium, marquee-style scrolling ticker for real-time promotions and collections.
 - **Dynamic Hero Section**: Interactive, full-screen slider with elegant typography and smooth GSAP-powered reveals.
@@ -39,7 +34,7 @@ npx serve .
 
 This project uses high-resolution photography curated for luxury interior environments, including foyers, penthouses, and bespoke furniture pieces.
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
