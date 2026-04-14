@@ -2,7 +2,7 @@
 
 FurniSpace is a high-fidelity, production-ready web platform for a premium interior design and luxury furniture boutique based in Dubai. The application focuses on brand storytelling, interactive product discovery, and a "High-Clarity Light" design aesthetic.
 
-## 📺 Platform Preview
+## Platform Preview
 
 ![FurniSpace Platform Preview](FurniSpace.mp4)
 
@@ -17,7 +17,7 @@ FurniSpace is a high-fidelity, production-ready web platform for a premium inter
 - **Product Detail Engine**: Rich modal views for product specifications, availability, and warranty details.
 - **Zero-Emoji Policy**: A strictly professional, text-based industrial design language.
 
-## 🎨 Tech Stack
+##  Tech Stack
 
 - **Frontend**: HTML5 / CSS3 (Vanilla)
 - **Animations**: [GSAP](https://greensock.com/gsap/) (GreenSock Animation Platform)
@@ -26,7 +26,7 @@ FurniSpace is a high-fidelity, production-ready web platform for a premium inter
   - **Body**: Inter (Sans-serif)
 - **Icons**: Custom SVG system
 
-## 🚀 Getting Started
+##  Getting Started
 
 Simply open `index.html` in any modern browser to view the storefront.
 
@@ -35,9 +35,15 @@ For development with hot-reload, you can use:
 npx serve .
 ```
 
-## 📸 Assets
+##  Assets
 
 This project uses high-resolution photography curated for luxury interior environments, including foyers, penthouses, and bespoke furniture pieces.
 
----
-*Created by Antigravity — Experimental Branch*
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+Copyright © 2026 Selma Haci
+
+
+
